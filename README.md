@@ -12,5 +12,20 @@ https://skillsforall.com/course/networking-essentials
 
 ![Cisco Packet Tracer](cisco-packet-tracer.gif)
 
+# Changing the hostname
+
+```
+Switch> enable
+
+Switch# configure terminal
+
+Enter configuration commands, one per line. End with CNTL/Z.
+
+Switch(config)# hostname Praveen
+
+Praveen (config)#
+```
+
+
 
 
