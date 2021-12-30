@@ -1,5 +1,7 @@
 # CISCO Networking Essentials 2.0
 
+![Cisco Networking Academy](cisco-networking-academy.png)
+
 Download Cisco Packet Tracer
 
 https://skillsforall.com/resources/lab-downloads
