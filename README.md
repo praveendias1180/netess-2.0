@@ -28,6 +28,10 @@ Switch(config)# hostname Praveen
 Praveen (config)#
 ```
 
+# T568A and T568B
+
+![T568](t568.png)
+
 
 
 
